@@ -39,7 +39,11 @@ _Из его MAC-адреса_
 ![image](https://github.com/user-attachments/assets/55d7cbce-b74c-4dd8-89e3-b7d23c971313)  
 ## Настройка и проверка ретрансляции DHCPv6 на R2
 ![image](https://github.com/user-attachments/assets/136e94b6-4033-4440-a81c-f776a464f0a9)
-![image](https://github.com/user-attachments/assets/b133bb08-acb0-4947-b8ce-91abc6d04722)
+![image](https://github.com/user-attachments/assets/0a70745b-4e4d-414d-84d3-92f6168dc360)   
+![image](https://github.com/user-attachments/assets/92494ce6-ec2f-487a-82ef-90dfcbc5b88d)
+
+
+
 
 
 
